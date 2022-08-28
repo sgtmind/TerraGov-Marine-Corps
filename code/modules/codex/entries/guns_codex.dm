@@ -327,3 +327,18 @@
 	larger gun and would prefer a more CQC able weapon. It also has a rather large magazine capacity due to the small caliber size and caseless ammunition. <br><br>\
 	The MD-65 was adopted as a program to allow specialized units like medics and engineers to carry a smaller firearm to maximize \
 	weight and storage capacity. However it slowly spread in popularity to light infantry and scout units. It was named SMG-90 upon adoption."
+
+//
+/datum/codex_entry/m8_avenger
+	associated_paths
+	lore_text = "Due to disastrous experiences during the Defense of Shanxi, where the garrison would face troubles fighting off turian soldiers with M7 Lancers and Cannonade Battle Rifles, it was decided that these weapons would need to be replaced.\
+	As such, Hahne-Kedar would work with Elkoss Combine to help in the creation of a new rifle for the Systems Alliance.\
+	Given a number of improvements, including a far better accelerator, improved fire-rate, and a host of other improvements, the weapon was designated the Avenger.\
+	Today, it proudly serves as the standard service rifle of the Systems Alliance Marine Corps. <br><br>\
+	The rifle itself performs well in its job, being accurate when fired in short bursts, and deadly when fired on full auto."
+
+/datum/codex_entry/m99_saber
+	associated_paths
+	lore_text = "Often considered among the finest rifles made by humanity, and certainly one of the more powerful ones, the M99 Saber is a heavy-duty, double-barreled semi-automatic rifle favored by only the most elite marksman. \
+	Jokingly referred to as 'The Big Iron' for its sheer stopping power. The cost of manufacturing and customizing to their owners relegates their use to N-series Marines that specialize in marksmanship"
+
