@@ -1783,4 +1783,5 @@
 #include "interface\menu.dm"
 #include "interface\stylesheet.dm"
 #include "interface\skin.dmf"
+#include "pinnacle_station\modules\kinesis_shields\kinesis_shields.dm"
 // END_INCLUDE

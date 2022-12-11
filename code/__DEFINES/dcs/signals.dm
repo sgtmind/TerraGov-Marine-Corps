@@ -831,3 +831,6 @@
 
 //Signals for ais
 #define ESCORTING_ATOM_BEHAVIOUR_CHANGED "escorting_behaviour_changed"
+
+//
+#define COMSIG_ITEM_PRE_UNEQUIP "item_pre_unequip"
